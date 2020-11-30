@@ -3,7 +3,7 @@
 ```
 Key Generator or more ?
 ```
-*hello Walkers*
+*Hello Walkers*
 ----
 ```python
 from world import m4rktn
@@ -19,7 +19,7 @@ futur_work=True
 why='yah , i think so but soemthing different'
 wanna_music="https://www.youtube.com/watch?v=H4-5PFdr0GQ" # Subscibe To PsycoM 
 ```
-*need*
+*Need*
 ----
 ```bash
 Python3 (3.9 : last version)
