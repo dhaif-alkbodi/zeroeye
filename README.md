@@ -23,6 +23,7 @@ wanna_music="https://www.youtube.com/watch?v=H4-5PFdr0GQ" # Subscibe To PsycoM
 ----
 ```bash
 Python3 (3.9 : last version)
+Git (linux/android)
 ```
 *How to install Python*
 ----
@@ -34,6 +35,15 @@ Android(Termux): apt install python / pkg install python
 *Using*
 ----
 ```bash
+#linux/android
 pip install colorama
+git clone https://github.com/m4rktn/zeroeye
+cd zeroeye #if not "zeroeye-master"
+python zack.py
+
+#windows
+just download this project > extract it 
+open zeroeye-master
+open cmd (see how to use python on Windows)
 python zack.py
 ```
